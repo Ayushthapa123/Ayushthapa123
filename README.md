@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.ayush-thapa.com.np/](https://www.ayush-thapa.com.np/)
 
-- ⚡ Fun fact **You may find me serious on first visit😅**
+- ⚡ Fun fact **😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
