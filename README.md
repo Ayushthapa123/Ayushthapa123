@@ -2,13 +2,12 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 
-- 📝 I regularly write articles on [https://www.ayush-thapa.com.np/blogs](https://www.ayush-thapa.com.np/blogs)
 
 - 💬 Ask me about **react,Next.js,firebase,MUI**
 
 - 📫 How to reach me **thapaaayush115@gmail.com**
 
-- 📄 Know about my experiences [https://www.ayush-thapa.com.np/](https://www.ayush-thapa.com.np/)
+
 
 - ⚡ Fun fact **😅**
 
